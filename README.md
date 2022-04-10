@@ -23,4 +23,4 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 ## Project description
 
-Tutorial for students of the final year at Faculty of Technical Engineering. Laravel is used to explaing MVC architecture and ORM principles.
+Tutorial for students of the final year at Faculty of Technical Engineering - Department for Computer Science. Laravel is used to explaing MVC architecture and ORM principles.
