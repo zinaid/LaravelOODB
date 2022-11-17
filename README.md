@@ -4,22 +4,20 @@
 
 Tutorial for students of the final year at Faculty of Technical Engineering - Department for Computer Science. Laravel is used to explaing MVC architecture and ORM principles, as well as the REST API architecture.
 
-<h2> Content </h2>
-<p align="center">
-<a>1. Laravel installation</a>
-<a>2. Folder structure</a>
-<a>3. Login and Register</a>
-<a>4. Routes and Views</a>
-<a>5. Model, Controller, and Migrations</a>
-<a>6. CRUD - Create</a>
-<a>7. CRUD - Delete and Edit</a>
-<a>8. REST Api - Creating and Testing using Insomnia</a> 
-<a>9. Dummy Data - Factories and Seeders</a>
-<a>10. ORM, MVC, Eloquent and Query Builder through complex queries</a>
-<a>11. Laravel Storage</a> 
-<a>12. Git, Github and Laravel</a> 
-<a>13. Laravel on shared server with FTP</a> 
-</p>
+### <h2> Content </h2>
+<p>1. Laravel installation</p>
+<p>2. Folder structure</p>
+<p>3. Login and Register</p>
+<p>4. Routes and Views</p>
+<p>5. Model, Controller, and Migrations</p>
+<p>6. CRUD - Create</p>
+<p>7. CRUD - Delete and Edit</p>
+<p>8. REST Api - Creating and Testing using Insomnia</p> 
+<p>9. Dummy Data - Factories and Seeders</p>
+<p>10. ORM, MVC, Eloquent and Query Builder through complex queries</p>
+<p>11. Laravel Storage</p> 
+<p>12. Git, Github and Laravel</p> 
+<p>13. Laravel on shared server with FTP</p> 
 
 ## About Laravel
 
