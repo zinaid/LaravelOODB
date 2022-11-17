@@ -1,10 +1,24 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
+## Project description
+
+Tutorial for students of the final year at Faculty of Technical Engineering - Department for Computer Science. Laravel is used to explaing MVC architecture and ORM principles, as well as the REST API architecture.
+
+<h2> Content </h2>
 <p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+<a>1. Laravel installation</a>
+<a>2. Folder structure</a>
+<a>3. Login and Register</a>
+<a>4. Routes and Views</a>
+<a>5. Model, Controller, and Migrations</a>
+<a>6. CRUD - Create</a>
+<a>7. CRUD - Delete and Edit</a>
+<a>8. REST Api - Creating and Testing using Insomnia</a> 
+<a>9. Dummy Data - Factories and Seeders</a>
+<a>10. ORM, MVC, Eloquent and Query Builder through complex queries</a>
+<a>11. Laravel Storage</a> 
+<a>12. Git, Github and Laravel</a> 
+<a>13. Laravel on shared server with FTP</a> 
 </p>
 
 ## About Laravel
@@ -20,7 +34,3 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 - [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-## Project description
-
-Tutorial for students of the final year at Faculty of Technical Engineering - Department for Computer Science. Laravel is used to explaing MVC architecture and ORM principles.
